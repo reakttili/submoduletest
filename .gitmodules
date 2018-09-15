@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = C:/Programming/Web/react/0_excercises/luento7/backend/.git
+[submodule "frontend"]
+	path = frontend
+	url = C:/Programming/Web/react/0_excercises/luento7/frontend/.git
